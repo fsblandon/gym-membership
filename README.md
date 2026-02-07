@@ -30,9 +30,11 @@ docker compose version
 ```
 
 ## Project structure
+```bash
 apps/
  ├─ api/        # Express + Prisma backend
  └─ web/        # React + Vite frontend
+ ```
 
 ## Database
 ### Start using Docker
