@@ -81,7 +81,7 @@ http://localhost:4200
 ```
 
 ## Solution Diagram
-![Solution diagram](https://drive.google.com/file/d/1MQN_dInnotq7c5zfGIUzq8PZ5Qek2fhN/view?usp=sharing)
+![Solution Diagram](https://drive.google.com/file/d/1MQN_dInnotq7c5zfGIUzq8PZ5Qek2fhN/view)
 
 
 ## Proposed Schema
