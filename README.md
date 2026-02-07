@@ -80,10 +80,6 @@ Frontend is available at:
 http://localhost:4200
 ```
 
-## Solution Diagram
-![Solution Diagram](https://drive.google.com/file/d/1MQN_dInnotq7c5zfGIUzq8PZ5Qek2fhN/view)
-
-
 ## Proposed Schema
 ```bash
 model Member {
