@@ -65,6 +65,7 @@ npx pnpm prisma db seed
 
 ## Run Backend(API)
 ```bash
+cd apps/api
 pnpm dev
 ```
 Backend is available at:
@@ -74,6 +75,7 @@ http://localhost:3333
 
 ## Run Frontend(WEB)
 ```bash
+cd apps/web
 pnpm dev
 ```
 
